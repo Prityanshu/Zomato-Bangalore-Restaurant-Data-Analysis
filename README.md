@@ -162,5 +162,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Made with ❤️ for data-driven food discovery. 
 
 
-## here's the link to download the datasets
+## Here is the link to download the datasets
 https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants
